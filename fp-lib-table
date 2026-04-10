@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "2991")(type "KiCad")(uri "/Users/admin/Downloads/2991")(options "")(descr ""))
+  (lib (name "antenna_footprints")(type "KiCad")(uri "/Users/admin/Downloads/ul_2450AT18A100E/KiCADv6/antenna_footprints.pretty")(options "")(descr ""))
+  (lib (name "load_regulatorfootprints")(type "KiCad")(uri "/Users/admin/Downloads/ul_ADP7112ACBZ-2-5-R7/KiCADv6/load_regulatorfootprints.pretty")(options "")(descr ""))
+  (lib (name "acc_footprints")(type "KiCad")(uri "/Users/admin/Downloads/ul_LIS2DW12TR/KiCADv6/acc_footprints.pretty")(options "")(descr ""))
+  (lib (name "microcontroller_footprints")(type "KiCad")(uri "/Users/admin/Downloads/ul_NRF52832-CIAA-R/KiCADv6/microcontroller_footprints.pretty")(options "")(descr ""))
+  (lib (name "BM02B_footprints")(type "KiCad")(uri "/Users/admin/Downloads/ul_BM02B-ACHSS-GAN-TF-LF-SN-/KiCADv6/BM02B_footprints.pretty")(options "")(descr ""))
+)
